@@ -1,0 +1,16 @@
+# Ignore node.js machinery
+node_modules/
+
+# Ignore Python machinery
+__pycache__/
+*.pyc
+
+# Ignore IDE files
+*.iml
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore OSX files
+.DS_Store
